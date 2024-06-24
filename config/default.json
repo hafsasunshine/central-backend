@@ -10,8 +10,8 @@
       "port": 8383
     },
     "email": {
-      "serviceAccount": "no-reply@getodk.org",
-      "transport": "json"
+      "serviceAccount": "hafsahilaly92@gmail.com",
+      "transport": "sendmail"
     },
     "xlsform": {
       "host": "localhost",
